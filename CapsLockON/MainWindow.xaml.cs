@@ -16,18 +16,6 @@ using System.Windows.Forms;      // -- For NotifyIcon Class
 using System.Drawing;            // -- For Icon Class
 
 
-/// <summary>
-/// This is a tray application app.
-/// It will sit in the tray with 2 icons - 1 for capslock and 1 for numlock.
-/// The icons will switch between ON and OFF indicating if the buttons are toggled.
-/// .
-/// The Program runs in an infinite while-loop and is on a 5 second 'cooldown' (threadSleep)
-/// .
-/// Made because my new laptop DOESN'T have an indication wether those are on or off. Seriously. Why? -.-
-/// 
-/// You can add the program to your startup menu, so it starts up when you turn on your PC
-/// </summary>
-
 namespace CapsLockON
 {
     public partial class MainWindow : Window
