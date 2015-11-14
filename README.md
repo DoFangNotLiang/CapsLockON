@@ -4,8 +4,7 @@ Made during 1. semester in my Computer Science class.
 
 ______________________________________
 This is a tray application app.
-It will sit in the tray with 2 icons - 1 for capslock and 1 for numlock.
-The icons will switch between ON and OFF indicating if the buttons are toggled.
+It will sit in the tray with 1 icon showing wether numlock and capslock is toggled.
 
 The Program runs in an infinite while-loop and is on a 1 second threadSleep.
 
