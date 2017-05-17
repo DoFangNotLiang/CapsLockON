@@ -1,4 +1,12 @@
 # CapsLockON
+
+2017/05/17
+---------------------------------
+Use vs2017 built on windows10x64 bit system
+
+
+
+
 Small tray icon application that let's you know if your caplock and numlock is on or off. -- 
 Made during 1. semester in my Computer Science class.
 
@@ -18,3 +26,5 @@ ______________________________________
 
 Note: If you want to test the program with the .exe file, then you'll have to put the .ico files in the same folder as the
 .exe file.
+
+
